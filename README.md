@@ -2,6 +2,8 @@
 
 A modern, responsive Nike landing page built with React and Tailwind CSS. This project showcases a clean UI, interactive product displays, and a mobile-friendly design.
 
+[View live demo](https://nike-iota-sepia.vercel.app/)
+
 ## Features
 
 - **Hero Section:** Eye-catching introduction with dynamic shoe image selection.
